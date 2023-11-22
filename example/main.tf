@@ -1,7 +1,4 @@
-# Usage
-
-### Copy paste this message into your terraform root
-
 module "namespace" {
   source  = "cgokce01/namespace/kubernetes"
+  version = "0.0.1"
 }
